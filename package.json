@@ -15,10 +15,10 @@
   "author": "Thea",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^7.1.4",
+    "autoprefixer": "^10.4.14",
     "concat": "^1.0.3",
     "node-sass": "^7.0.0",
     "npm-run-all": "^4.1.1",
-    "postcss-cli": "^4.1.1"
+    "postcss-cli": "^10.1.0"
   }
 }
